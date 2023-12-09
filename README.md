@@ -1,24 +1,25 @@
-Banking Application
+            Banking Application
 Welcome to the Banking Application project! This application is designed to provide basic banking functionalities such as account management, fund transfers, and transaction history.
 
 Table of Contents
+1.Overview
+2.Features
+3.Prerequisites
+4.Installation
+5.Usage
+6.Technologies
+7.Contributing
+
 Overview
-Features
-Prerequisites
-Installation
-Usage
-Technologies
-Contributing
-License
-Overview
-Provide a brief description of your project, including its purpose and main features. You can also include a screenshot or link to a demo if available.
+    Provide a brief description of your project, including its purpose and main features. You can also include a screenshot or link to a demo if available.
 
 Features
-Account Management: Create, view, and update user accounts.
-Fund Transfers: Transfer funds between accounts securely.
-Transaction History: View a detailed history of transactions.
+    Account Management: Create, view, and update user accounts.
+    Fund Transfers: Transfer funds between accounts securely.
+    Transaction History: View a detailed history of transactions.
+    
 Prerequisites
-List any software or tools that users need to have installed before they can run your application.
+     List any software or tools that users need to have installed before they can run your application.
 
 Node.js (version x.x.x)
 SQL Server (or any other supported database)
@@ -41,7 +42,7 @@ CSS
 JavaScript
 React.js
 Node.js
-SQL (mention the specific database, e.g., MySQL, PostgreSQL)
+SQL 
 Contributing
 Explain how others can contribute to your project. Include information about the development environment, coding standards, and the process for submitting pull requests.
 
