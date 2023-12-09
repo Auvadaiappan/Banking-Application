@@ -1,4 +1,4 @@
-            Banking Application
+                                                Banking Application
 Welcome to the Banking Application project! This application is designed to provide basic banking functionalities such as account management, fund transfers, and transaction history.
 
 Table of Contents
@@ -34,7 +34,9 @@ Provide instructions on how to run and use your application.
 
 Start the server: npm start
 Open your web browser and go to http://localhost:3000 (or any other specified port).
+
 Technologies
+
 List the technologies and libraries used in your project.
 
 HTML
